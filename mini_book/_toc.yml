@@ -1,5 +1,6 @@
 # - file: README
-- file: docs/index
+- file: docs/inde
+- header: Get started
   sections:
     - file: docs/about_py
     - file: docs/getting_started
